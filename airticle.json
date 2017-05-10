@@ -1,0 +1,123 @@
+{
+  [
+    {
+      "name": "シェルスクリプトマガジン",
+      "articles": [
+        {
+          "title": "シェルスクリプトマガジン vol.43 : 香川大学SLPからお届け",
+          "url": "https://www.amazon.co.jp/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3-vol-43-%E7%95%B6%E4%BB%B2%E5%AF%9B%E5%93%B2/dp/4904807405"
+        },
+        {
+          "title": "シェルスクリプトマガジン vol.44 : 香川大学SLPからお届け",
+          "url": "https://www.amazon.co.jp/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3-vol-44-%E7%95%B6%E4%BB%B2%E5%AF%9B%E5%93%B2/dp/4904807413/ref=sr_1_3?ie=UTF8&qid=1485102529&sr=8-3&keywords=%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3"
+        },
+        {
+          "title": "シェルスクリプトマガジン vol.45 : 香川大学SLPからお届け",
+          "url": "https://www.amazon.co.jp/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3-vol-45-%E7%95%B6%E4%BB%B2%E5%AF%9B%E5%93%B2/dp/4904807421/ref=sr_1_2?ie=UTF8&qid=1485102529&sr=8-2&keywords=%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3"
+        }
+      ]
+    },
+    {
+      "name": "はてなブログ",
+      "articles": [
+        {
+          "title": "Reactの再レンダリングをなるべく減らす",
+          "url": "http://blog.aqutras.com/entry/2016/06/23/210000"
+        },
+        {
+          "title": "Reactコンポーネントが無駄に再レンダリングされていないか調べる",
+          "url": "http://blog.aqutras.com/entry/2016/06/09/210000"
+        },
+        {
+          "title": "React 用 の Slider UI plugin つくりました",
+          "url": "http://maxmellon.hateblo.jp/entry/2016/08/17/014015"
+        },
+        {
+          "title": "EventEmitter Speed BATTLE!!!!",
+          "url": "http://maxmellon.hateblo.jp/entry/2016/04/19/024430"
+        },
+        {
+          "title": "cordovaアプリをCircleCI上でe2eテストする",
+          "url": "http://maxmellon.hateblo.jp/entry/2016/08/17/014015"
+        },
+        {
+          "title": "オレオレテキストドキュメント用プラグイン vim-tmngつくった",
+          "url": "http://maxmellon.hateblo.jp/entry/2015/12/16/145808"
+        },
+        {
+          "title": "人類はもっとvim本来の機能を使うべきだった",
+          "url": "http://maxmellon.hateblo.jp/entry/2015/12/11/133136"
+        },
+        {
+          "title": "Array.prototype.forEach ではなく _.forEach を使う理由",
+          "url": "http://blog.aqutras.com/entry/2016/05/26/210000"
+        },
+        {
+          "title": "もっさりしたzshを改善する方法",
+          "url": "http://blog.aqutras.com/entry/2016/05/12/210000"
+        },
+        {
+          "title": "JavaScriptのコード補完できていますか？",
+          "url": "http://blog.aqutras.com/entry/2016/05/12/210000"
+        },
+        {
+          "title": "開発をちょっと楽にする、nodeモジュール紹介",
+          "url": "http://blog.aqutras.com/entry/2016/04/11/210000"
+        }
+      ]
+    },
+    {
+      "name": "Qiita",
+      "articles": [
+        {
+          "title": "npm install を高速化するpnpmの使い方と注意事項",
+          "url": "http://qiita.com/maxmellon/items/ca51fdd789f1a71597b6"
+        },
+        {
+          "title": "MacVimでFiraCode使う",
+          "url": "http://qiita.com/maxmellon/items/320af55d3a041c7bfc33"
+        },
+        {
+          "title": "npm i battle [ npm vs pnpm vs ied ]",
+          "url": "http://qiita.com/maxmellon/items/8b3f0d65668802a8c446"
+        },
+        {
+          "title": "coffee の存在確認演算子 '?' が便利だったのでbabelにも取り込む",
+          "url": "http://qiita.com/maxmellon/items/1c814f7f1fe9c785a3c2"
+        },
+        {
+          "title": "vimのECMASCript2015環境をイイ感じにする",
+          "url": "http://qiita.com/maxmellon/items/0e6173cdd51843053839"
+        },
+        {
+          "title": "zshでzの結果をpecoって爆速でディレクトリ移動する",
+          "url": "http://qiita.com/maxmellon/items/23325c22581e9187639e"
+        },
+        {
+          "title": "gulpを用いてplantUML生成自動化",
+          "url": "http://qiita.com/maxmellon/items/08c8162f3769ce71dbd3"
+        },
+        {
+          "title": "ruby製templateエンジンのslimに対して文法チェックするslim-lint",
+          "url": "http://qiita.com/maxmellon/items/381ebe0c3256deb0b62e"
+        },
+        {
+          "title": "vim で jsx を 綺麗に ハイライトする",
+          "url": "http://qiita.com/maxmellon/items/f75861f104b8c1e3ead0"
+        },
+        {
+          "title": "Nyaovim上で動く ニコ生のコメビュを作ってみた",
+          "url": "http://qiita.com/maxmellon/items/1d1f341543242f091851"
+        },
+        {
+          "title": "Nativeモジュール非依存な音声再生nodeモジュールを作った",
+          "url": "http://qiita.com/maxmellon/items/afe7497ef3b4976ee87d"
+        },
+        {
+          "title": "remoteのmasterにpushするとき, y/n を尋ねる",
+          "url": "http://qiita.com/maxmellon/items/ab4399b7a4f938272395"
+        }
+      ]
+    }
+  ]
+}

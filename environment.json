@@ -1,0 +1,8 @@
+{
+  "shell": "zsh",
+  "editor": "Vim(CLPUM, MacVim-KaoriYa) NeoVim(NyaoVim, NeoVim-qt)",
+  "language": "ECMAScript, Ruby, PHP, Elixir, C#",
+  "frontend": "React.js, WPF",
+  "backend": "Rails, Laravel, Sinatra",
+  "infrastructure": "docker, ansible"
+}

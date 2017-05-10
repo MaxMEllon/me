@@ -1,0 +1,21 @@
+{
+  "handle": "MaxMEllon",
+  "name": "Kento TSUJI",
+  "birthday": "1994.01.30",
+  "favorite": [
+    "うどん",
+    "和太鼓",
+    "プログラミング"
+  ],
+  "game": [
+    {
+      "name": "World of Tanks",
+      "detail": "WN8 : 1735 WR : 55.79%",
+      "url": "http://wotlabs.net/sea/player/dot_vimrc"
+    },
+    {
+      "name": "城とドラゴン",
+      "detail": "うまP 2123 つよP 637"
+    }
+  ]
+}
